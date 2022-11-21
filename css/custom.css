@@ -29,3 +29,15 @@
 footer p {
     margin: 5px;
 }
+
+/*Events Page*/
+
+#button {
+    background-color:#FFA722; 
+    float:right; 
+}
+
+.card {
+    border-style:solid;
+    border-color:black;
+}

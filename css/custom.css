@@ -1,3 +1,31 @@
-.nav {
-    background-color: lightgreen;
+.navbar {
+    background-color:rgb(65,1,121)
+}
+
+.btn-primary {
+    background-color: rgb(255,167,33)
+}
+
+.row-top-border {
+    border-top-style: solid;
+}
+
+.partner-images {
+    height:auto;
+    max-width: 15%;
+    white-space: nowrap;
+    
+    
+}
+.partner-images img{
+    padding-right: 20%;
+}
+
+.cust-footer{
+    background-color:rgb(65,1,121) ;
+    color: white;
+}
+
+footer p {
+    margin: 5px;
 }
